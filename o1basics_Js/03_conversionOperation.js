@@ -35,3 +35,32 @@ console.log(typeof value);
 // 1=> true; 0=> false
 // "" => false
 // "histesh" => true
+
+let me=3
+let m= -(me)
+console.log(m);
+console.log(2+2);
+console.log(2-2);
+console.log(2/2);
+console.log(2*2);
+console.log(2*2*2);
+console.log(2%2);
+
+let str1 ="swati"
+let str2 =" singh"
+let str3 = str1 + str2
+console.log(str3);
+console.log("2" + 2);
+console.log(2 + "2");
+console.log("2" + "2");
+console.log("2" + 2 + 2);
+console.log(2 + 2 + "2");
+console.log((3+4) * 2 % 2);
+console.log(+"");
+console.log(+true);
+
+let gameCounter =100
+gameCounter++;
+//++gameCounter;
+console.log(gameCounter);
+
